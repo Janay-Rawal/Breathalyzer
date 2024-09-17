@@ -21,3 +21,5 @@ After calibration, the user can blow on the alcohol sensor.
 The BAC is displayed on the screen, and an alert is provided based on the reading.
 For a detailed look at the code and how the project works, please refer to the PDF file that contains the complete source code and an explanation of the implementation.
 [Breathalyzer_compressed.pdf](https://github.com/user-attachments/files/17028838/Breathalyzer_compressed.pdf)
+![picture1](https://github.com/user-attachments/assets/011ddd1c-80b4-40db-b997-e5e60b9795d8)
+![picture2](https://github.com/user-attachments/assets/10ee4008-9a7d-4ea9-b539-1f3c4632b6fa)
